@@ -1,0 +1,13 @@
+# Reglas de análisis del proyecto BBV Restaurant.
+analyzer:
+  exclude:
+    - build/**
+    - android/**
+    - web/**
+    - windows/**
+
+linter:
+  rules:
+    - prefer_const_constructors
+    - prefer_final_fields
+    - avoid_print
