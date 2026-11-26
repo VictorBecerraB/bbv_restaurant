@@ -30,7 +30,7 @@ En este avance el login valida contra usuarios de demostración (`lib/services/a
 Requisitos: Flutter 3.10 o superior.
 
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/VictorBecerraB/bbv_restaurant.git
 cd bbv_restaurant
 flutter create .        # genera las carpetas de plataforma si faltan
 flutter pub get
